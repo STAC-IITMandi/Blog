@@ -31,6 +31,16 @@ authors:
     display_name: mishranant
     email: anant.mishra.student@gmail.com
     description: "A CS Undergraduate, intern at Arista Networks"
+  jainan:
+    name: Jainan Tandel
+    display_name: Jainan-Tandel
+    email: b19224@students.iitmandi.ac.in
+    description: "Tried all, Achieved most, Perfected many, Love some! (Physics (particularly Astrophysics), Programming, Music, Sports, Photography (Editing), Sketching, etc.!)"
+  prajwal:
+    name: Prajwal Sood
+    display_name: PrajwalSood
+    email: prajwalsood@gmail.com
+    description: "Just a small town guy who gazes out of his window to wonder what's up"
 
 # Plugins
 plugins:
