@@ -28,8 +28,6 @@ From statistical analysis, scientists found that Tycho SNR (SuperNova Remnant) c
 
 I went through a paper titled **From the supernova to the supernova remnant: the three-dimensional imprint of a thermonuclear explosion** describing the results by Ferrand and co-authors appeared in the June 1st, 2019 issue of  ([The Astrophysical Journal](https://arxiv.org/pdf/1904.08062.pdf)). The team constructed their 3D computer models of the Supernova.
 
-They showed initial asymmetries in the explosion are required so that the model closely resembles the Chandra image of Tycho.
-
 ![Cassiopeia A Supernova](/assets/images/abhi3.jpg)
 
 *Credits: arXiv:1904.08062v1 [astro-ph.HE] 17 Apr 2019*
@@ -42,9 +40,9 @@ They showed initial asymmetries in the explosion are required so that the model 
 > as time progresses. At age of t=500 yr, asymmetric ejecta resembles
 > what Chandra's Tycho image looks like.
 
-They showed initial asymmetries in an explosion are required so that the model closely resembles the Chandra image of Tycho.
+They showed initial asymmetries in an explosion are required so that the model closely resembles the Chandra image of Tycho. The expanding gas cloud is extremely hot, while slightly different expansion speeds have given the cloud a puffy appearance. This can be due to multiple ignition points in Star's explosion as mentioned earlier which are more frequent in type Ia Supernovae.
 
-Type 1a supernovae are used as **standard candles**, i.e., objects with known characteristic brightness which can be used to study the expansion of the universe. Moreover, they sprinkle elements that may support life in the next generation of solar systems.
+Type Ia supernovae are used as **standard candles**, i.e., objects with known characteristic brightness which can be used to study the expansion of the universe. Moreover, they sprinkle elements that may support life in the next generation of solar systems.
 
 ### References
 
