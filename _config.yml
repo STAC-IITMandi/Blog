@@ -48,6 +48,11 @@ authors:
     email: abhijeetmanhas720@gmail.com
     web: https://abhijeetmanhas.github.io
     description: "Coordinator, STAC. SkyGazer, Contributor at @SunPy, Deep Generative modelling Enthusiast!"
+  tushika:
+    name: Tushika Singh
+    display_name: tushika
+    email: b19200@students.iitmandi.ac.in
+    description: "B-Tech first year student at IIT Mandi"
 # Plugins
 plugins:
   - jekyll-paginate
