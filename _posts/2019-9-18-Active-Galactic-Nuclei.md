@@ -2,7 +2,7 @@
 layout: post
 title:  "Active Galactic Nuclei"
 author: jainan
-categories: [ Galaxies ]
+categories: [ Galaxies, Stars ]
 image: /assets/images/jainan.jpg
 ---
 > At a glance...
