@@ -2,7 +2,7 @@
 layout: post
 title:  "When a Star Dies in Clumps"
 author: abhijeet
-categories: [ Stars ]
+categories: [ Stars, Galaxies ]
 image: /assets/images/abhi0.jpg
 ---
 
