@@ -41,18 +41,19 @@ authors:
     display_name: PrajwalSood
     email: prajwalsood@gmail.com
     description: "Just a small town guy who gazes out of his window to wonder what's up"
-  abhijeet:
-    name: Abhijeet Manhas
-    display_name: abhimanhas
-    gravatar: 539aa2b9d239d104699f2f515d6ecd1d
-    email: abhijeetmanhas720@gmail.com
-    web: https://abhijeetmanhas.github.io
-    description: "Coordinator, STAC. SkyGazer, Contributor at @SunPy, Deep Generative modelling Enthusiast!"
   tushika:
     name: Tushika Singh
     display_name: tushika
     email: b19200@students.iitmandi.ac.in
     description: "B-Tech first year student at IIT Mandi"
+  abhijeet:
+    name: Abhijeet Manhas
+    display_name: abhimanhas
+    gravatar: 539aa2b9d239d104699f2f515d6ecd1d
+    email: abhijeetmanhas720@gmail.com
+    twitter: https://twitter.com/astromanhas
+    web: https://abhijeetmanhas.github.io
+    description: "Coordinator, STAC. SkyGazer, Contributor at @SunPy, Deep Generative modelling Enthusiast!"
 # Plugins
 plugins:
   - jekyll-paginate
