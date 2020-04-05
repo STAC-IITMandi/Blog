@@ -116,6 +116,7 @@ As you can see, while a flare `(right)` too is an eruption on the Sun, most of t
 
 And finally, solar storms, which are somewhat poorly defined, include any solar emission event that can have an effect on the rest of the Solar system. It can include large flares, CMEs, **geomagnetic storms** (interaction between Earth’s magnetosphere and Sun’s magnetic field outburst) or shock wave accelerated solar winds. It is virtually any potentially short term, hazardous, solar emission event to astronauts, satellites and even Earth, and are a crucial factor considered in space weather.
 
+As you are still reading, I am very happy to that you have reached reading till here, and you really want to know about our Sun. So, I would like to suggest you to check out a few things like our **Sun’s structure**, the **heliosphere**, **Earth’s magnetosphere**, **Sun’s tachocline**, etc., to understand just how lucky we are, to have got the perfect star to provide heat and energy, the perfect planet to live on, the perfect atmosphere and magnetic field to protect us, and the just perfect distance between them to be safe from heat and radiation, but not freeze up.
 
 ### References
 
