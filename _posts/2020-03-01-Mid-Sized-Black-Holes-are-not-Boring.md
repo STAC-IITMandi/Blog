@@ -10,7 +10,7 @@ image: /assets/images/abhi4.jpg
 
 ### What are they?
 
-A lot fewer research papers are published for the Mid-sized Black Holes as compared to those for the study of stellar Black Holes or the supermassive Black Holes. The recent results published on March 31, 2020, in The *Astrophysical Journal Letters* looks like the most promising evidence of such Black Holes as of now. The so-called **Intermediate-mass Black Holes** (IMBHs) are with the mass in the range `10e2 to 10e5` solar masses, significantly more than stellar black holes but insignificant in comparison to about `10e5 to 10e9` solar masses heavy supermassive Black Holes.
+A lot fewer research papers are published for the Mid-sized Black Holes as compared to those for the study of stellar Black Holes or the supermassive Black Holes. The recent results published on March 31, 2020, in The *Astrophysical Journal Letters* looks like the most promising evidence of such Black Holes as of now. The so-called **Intermediate-mass Black Holes** (IMBHs) are with the mass in the range 10<sup>2</sup> to 10<sup>5</sup> solar masses, significantly more than stellar black holes but insignificant in comparison to about 10<sup>5</sup> to 10<sup>9</sup> solar masses heavy supermassive Black Holes.
 
 Why always "*middle-ish*" things ought to be boring? However, it is not in the case of Black Holes, at least from now :). They are often sought out as the "missing link" in the theory of Black Hole evolution; In fact, there are many theories that idealize their formation. Some prominent ones are:
 
