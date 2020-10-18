@@ -46,6 +46,16 @@ authors:
     display_name: tushika
     email: b19200@students.iitmandi.ac.in
     description: "B-Tech first year student at IIT Mandi"
+  aartianand:
+    name: Aarti Anand
+    display_name: Aarti Anand
+    email: b19227@students.iitmandi.ac.in
+    description: "B-Tech second year student at IIT Mandi"
+  devanshkochar:
+    name: Devansh Kochar
+    display_name: Devansh Kochar
+    email:
+    description: "B-Tech second year student at IIT Mandi"
   abhijeet:
     name: Abhijeet Manhas
     display_name: abhimanhas
