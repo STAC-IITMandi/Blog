@@ -27,7 +27,7 @@ As our algorithms and detectors keep on improving, I hope we detect a lot of the
 
 The power of NASA's **Chandra X-ray Observatory** and ESA's **X-ray Multi-Mirror Mission** along with the keen vision of **Hubble Space Telescope** helped Scientists to nail down this preparator of a cosmic homicide. The archives of these X-ray observatories were searched and matched with the HST image to suffice as evidence of this Mid-sized Black Hole.
 
-![Hubble image for the identified IMBH](/assets/images/abhi5.jpg)
+![Hubble image for the identified IMBH]({{ '/assets/images/abhi5.jpg' | relative_url }})
 
 *The Hubble image for the identified IMBH (Credits: NASA, ESA and D. Lin (University of New Hampshire))*
 
@@ -37,7 +37,7 @@ This Hubble image identified the location of an intermediate-mass black hole and
 
 The study of Mid-sized Black Holes will improve our understanding of the formation of Super-massive blackholes and, of course, IMBHs itself. After these findings, we move one step towards postulating the fact that globular clusters may favor the formation of IMBHs.
 
-![Mass Chart for Dead Stars and Black Holes](/assets/images/abhi6.jpg)
+![Mass Chart for Dead Stars and Black Holes]({{ '/assets/images/abhi6.jpg' | relative_url }})
 
 *Mass Chart for Dead Stars and Black Holes (Credits: NASA/JPL-Caltech)*
 
