@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Time Travel"
+title: "Time Travel"
 author: devanshkochar
-categories: [ TimeTravel ]
+categories: [TimeTravel]
+image: /assets/images/devansh1.jpg
 ---
 
-> EVEN IF WE IT TURNS OUT THAT TIME TRAVEL IS IMPOSSIBLE, IT IS IMPORTANT THAT WE UNDERSTAND WHY IT IS IMPOSSIBLE   -Stephen Hawking
+> EVEN IF WE IT TURNS OUT THAT TIME TRAVEL IS IMPOSSIBLE, IT IS IMPORTANT THAT WE UNDERSTAND WHY IT IS IMPOSSIBLE -Stephen Hawking
 
 Time travel is something that has been popular among commoners, admired by kids and sought after by scientists. Franchises going from "Doctor Who" to "Star Trek" to "Back to the Future" have seen people get in a vehicle and show up previously or future, prepared to take on new experiences. Each accompany their own time travel hypotheses.
 

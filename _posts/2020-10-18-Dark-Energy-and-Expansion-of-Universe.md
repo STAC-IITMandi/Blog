@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Dark Energy and Expansion of Universe"
+title: "Dark Energy and Expansion of Universe"
 author: aartianand
-categories: [ DarkEnergy ]
+categories: [DarkEnergy]
+image: /assets/images/aartianand1.jpg
 ---
 
 In the mid 1990s, one thing was genuinely sure about the development of the universe. It may have enough energy thickness to stop its extension and breakdown, it may have so little energy thickness that it could expand constantly, however gravity was sure to slow the development as time went on. In truth, the easing back had not been watched, in any case, hypothetically, the universe needed to slow. The universe is brimming with issue and the appealing power of gravity arranges all issue. At that point came1998 and the Hubble Space Telescope (HST) perceptions of exceptionally far off supernovae that demonstrated that, quite a while past, the universe was really growing more gradually than it is today. Along these lines, the extension of the universe has notbeen easing back because of gravity, as everybody suspected, it has been quickening. Nobody anticipated this, nobody realized how to clarify it. Be that as it may, something was causing it.
@@ -13,14 +14,13 @@ Inevitably scholars concocted three kinds of clarifications. Possibly it was a c
 
 More is unknown than is known. We know how much dark energy there is because we know how it affects the universe's expansion. Other than that, it is a complete mystery. But it isan important mystery. It turns out that roughly 68% of the universe is dark energy. Dark matter makes up about 27%. The rest -everything on Earth, everything ever observed with all of our instruments, all normal matter -adds up to less than 5% of the universe. Come to think of it, maybe it shouldn't be called "normal" matter at all, since it is such a small fraction of the universe.
 
-<img src="/assets/images/aartianand1.png" alt="drawing" width="400"/>
+<img src="/assets/images/aartianand1.jpg" alt="drawing" width="400"/>
 
 This graph uncovers changes in the pace of development since the universe's introduction to
 the world 15 billion years back. The shallower the bend, the quicker the pace of development.
 The bend changes discernibly about 7.5 billion years prior, when objects known to mankind
 started flying separated as a quicker rate. Stargazers hypothesize that the quicker development
 rate is because of a puzzling, dim power that is pulling systems separated.
-
 
 One clarification for dim energy is that it is a property of room. Albert Einstein was the primary
 individual to understand that vacant space isn't nothing. Space has stunning properties, a
@@ -34,7 +34,7 @@ universe extend quicker and quicker. Tragically, nobody comprehends why the cosm
 consistent ought to try and be there, substantially less why it would have precisely the correct
 an incentive to cause the watched speeding up of the universe.
 
-<img src="/assets/images/aartianand2.png" alt="drawing" width="400"/>
+<img src="/assets/images/aartianand2.jpg" alt="drawing" width="400"/>
 
 This picture shows the conveyance of dim issue, worlds, and hot gas in the center of the
 consolidating universe bunch Abell 520. The outcome could introduce a test to fundamental
