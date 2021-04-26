@@ -14,7 +14,7 @@ Tycho was a Danish astronomer who in 1572 noticed a bright object in the constel
 
 But we now know that Tycho's new star was not new at all; rather it signaled the death of a star in Type 1a Supernova. These supernovae occur when a white dwarf star pulls material from a nearby companion star until an explosion happens.
 
-![gas stripped off from companion star](/assets/images/abhi1.jpg)
+![gas stripped off from companion star]({{ '/assets/images/abhi1.jpg' | relative_url }})
 
 *gas stripped off from a companion star; Credits: NASA*
 
@@ -22,13 +22,13 @@ Scientists used two narrow ranges of X-ray energies to isolate material for emph
 
 From statistical analysis, scientists found that Tycho SNR (SuperNova Remnant) clumps may be caused due to multiple ignition points in its explosion.
 
-![Cassiopeia A Supernova](/assets/images/abhi2.jpg)
+![Cassiopeia A Supernova]({{ '/assets/images/abhi2.jpg' | relative_url }})
 
 *false-color image of Cassiopeia A; Credits: NASA*
 
 I went through a paper titled **From the supernova to the supernova remnant: the three-dimensional imprint of a thermonuclear explosion** describing the results by Ferrand and co-authors appeared in the June 1st, 2019 issue of  ([The Astrophysical Journal](https://arxiv.org/pdf/1904.08062.pdf)). The team constructed their 3D computer models of the Supernova.
 
-![Cassiopeia A Supernova](/assets/images/abhi3.jpg)
+![Cassiopeia A Supernova]({{ '/assets/images/abhi3.jpg' | relative_url }})
 
 *Credits: arXiv:1904.08062v1 [astro-ph.HE] 17 Apr 2019*
 

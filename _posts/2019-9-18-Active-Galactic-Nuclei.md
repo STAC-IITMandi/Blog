@@ -12,7 +12,7 @@ Quasars, short for quasi-stellar radio source(s), are some of the brightest obje
 Every star has a lifetime. When massive stars undergo a supernova (explosion due to gravitational collapse after depletion of fuel for fusion reaction), they shed of most of their outer envelope. However, the core (mostly iron, as iron-56 has the third greatest binding energy) is pulled further in to become a neutron star (all nucleons fuse so that only neutrons remain). However, in case the mass of the core was enormous, the escape velocity at or above it’s surface exceeds even the speed of light! Then, that is called a black hole.
 Just like stars, black holes vary in size (mass) and they keep feeding on a HUGE amount of surrounding matter, including gas, planets, stars, (and even other black holes) which start flowing, in a spiral path rather than in a straight path, into the black hole, as shown below. This region around the black hole, which contains the matter starting to flow into the black hole, is called accretion disk. AGNs (Active Galactic Nuclei), which are centres of galaxies with very high luminosities, are nothing but black holes with accretion disks.
 
-![Structure of Black Holes](/assets/images/jainan1.jpg)
+![Structure of Black Holes]({{ '/assets/images/jainan1.jpg'  | relative_url }})
 
 *Credits: slideshare.net*
 
@@ -23,7 +23,7 @@ Coming on to blazars (combination of BL Lac objects and quasars), they too are A
 
 Jets, more precisely astrophysical jets, are streams of plasma thrown out from the axis of an accretion disc. These can reach millions of light years and their particles move at near light speed. Surprised, aren’t you?!?! How can a high gravity object, which is supposed to pull in, and hence decelerate matter, emit high speed jets? This is believed to be the result of a complex magnetic field that directs a plasma beam away from the centre of the disc, along the axis.
 
-![jets](/assets/images/jainan2.jpg)
+![jets]({{ '/assets/images/jainan2.jpg'  | relative_url }})
 
 *Credits: scitechdaily.com*
 

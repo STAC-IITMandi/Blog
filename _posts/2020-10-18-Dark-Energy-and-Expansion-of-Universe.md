@@ -14,7 +14,7 @@ Inevitably scholars concocted three kinds of clarifications. Possibly it was a c
 
 More is unknown than is known. We know how much dark energy there is because we know how it affects the universe's expansion. Other than that, it is a complete mystery. But it isan important mystery. It turns out that roughly 68% of the universe is dark energy. Dark matter makes up about 27%. The rest -everything on Earth, everything ever observed with all of our instruments, all normal matter -adds up to less than 5% of the universe. Come to think of it, maybe it shouldn't be called "normal" matter at all, since it is such a small fraction of the universe.
 
-<img src="/assets/images/aartianand1.jpg" alt="drawing" width="400"/>
+<img src="{{ '/assets/images/aartianand1.jpg' | relative_url }}" alt="drawing" width="400"/>
 
 This graph uncovers changes in the pace of development since the universe's introduction to
 the world 15 billion years back. The shallower the bend, the quicker the pace of development.
@@ -34,7 +34,7 @@ universe extend quicker and quicker. Tragically, nobody comprehends why the cosm
 consistent ought to try and be there, substantially less why it would have precisely the correct
 an incentive to cause the watched speeding up of the universe.
 
-<img src="/assets/images/aartianand2.jpg" alt="drawing" width="400"/>
+<img src="{{ '/assets/images/aartianand2.jpg' | relative_url }}" alt="drawing" width="400"/>
 
 This picture shows the conveyance of dim issue, worlds, and hot gas in the center of the
 consolidating universe bunch Abell 520. The outcome could introduce a test to fundamental
