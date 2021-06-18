@@ -2,11 +2,11 @@
 layout: post
 title: "A Voyage Beyond Time (Sunishtha Nangal)"
 author:
-categories: [BinaryStars]
+categories: [Lensing]
 image: /assets/images/sunishtha1.jpg
 ---
 
-#### This blog post was the winner of Estrella in AstraX 2021.
+> This blog post was the winner of Estrella in AstraX 2021.
 
 ## <center>“A VOYAGE BEYOND TIME”</center>
 

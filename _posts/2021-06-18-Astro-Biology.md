@@ -6,7 +6,7 @@ categories: [AstroBiology]
 image: /assets/images/abhirami2.jpg
 ---
 
-#### This blog post was the second runner up of Estrella in AstraX 2021.
+> This blog post was the second runner up of Estrella in AstraX 2021.
 
 Endless sky surrounding our planet always fascinated the mankind and their thirst for knowledge urged them to unravel the mysteries of universe. As they dive deep into the vast ocean of vacuum and dust, new questions began to arise.
 
@@ -112,6 +112,10 @@ Amidst all these speculations the field of astrobiology is looking forward to th
 
 References
 
-1. Tyson and Neil deGrasse’s, “The Search for Life in the Universe” 2. “About Astrobiology”. NASA’s Astrobiology Institute. 3. Shostak and Seth’s “Our Galaxy Should Be Teeming With Civilizations, But Where Are They?”
+1. Tyson and Neil deGrasse’s, “The Search for Life in the Universe”
 
-    Image credits: NASA
+2. “About Astrobiology”. NASA’s Astrobiology Institute.
+
+3. Shostak and Seth’s “Our Galaxy Should Be Teeming With Civilizations, But Where Are They?”
+
+Image credits: NASA
