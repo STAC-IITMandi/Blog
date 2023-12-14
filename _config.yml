@@ -4,6 +4,7 @@ title: "AstroThoughts"
 description: "Blog of the Space Technology and Astronomy Cell"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: 'https://stac.iitmandi.co.in'
 baseurl: /blog
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -71,6 +72,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-toc
 
 # Archives
 jekyll-archives:
@@ -103,3 +105,6 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+toc:
+  ordered_list: true
