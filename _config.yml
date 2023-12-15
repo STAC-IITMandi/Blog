@@ -65,6 +65,12 @@ authors:
     twitter: https://twitter.com/astromanhas
     web: https://abhijeetmanhas.github.io
     description: "Coordinator, STAC. SkyGazer, Contributor at @SunPy, Deep Generative modelling Enthusiast!"
+  gautamd:
+    name: Gautam Dhulipala
+    display_name: Gautam D
+    email: b20198@students.iitmandi.ac.in
+    description: "BTech CSE student at IIT Mandi, STAC Core team member 2021-24."
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -83,7 +89,7 @@ jekyll-archives:
     category: '/category/:name/'
 
 # Pagination
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
 
 # Other

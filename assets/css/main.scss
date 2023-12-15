@@ -8,6 +8,18 @@
 	display:inline;
 }
 
+img.center {
+	display: block;
+	margin: auto;
+}
+
+div.imgholder {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin-bottom: 1.5em;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
